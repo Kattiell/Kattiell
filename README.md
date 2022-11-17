@@ -7,10 +7,10 @@
   </span>
 </h2>
 <h2 display="inline"> Segue algumas infos sobre mim <h2>
-<p>
+<h3>
   Tenho 20 anos e sou de Patos de Minas, Minas Gerais. Amo lo-fi . <br>
   Atualmente trabalho na B2LIST com a Coordenação do time de Suporte. 
-</p>
+<h3/>
 
 <p>
   Essas são algumas tecnologias que conheço e pratico casualmente:

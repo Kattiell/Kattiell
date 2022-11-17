@@ -22,7 +22,7 @@
   <img src="https://img.icons8.com/officel/36/000000/react.png"/>
   <img src="https://img.icons8.com/nolan/36/react-native.png"/>
   <img src="https://img.icons8.com/color/36/000000/sass.png"/>
-  <img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px"
+  <img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px"/>
 
 
   

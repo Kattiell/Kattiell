@@ -22,11 +22,8 @@
   <img src="https://img.icons8.com/officel/36/000000/react.png"/>
   <img src="https://img.icons8.com/nolan/36/react-native.png"/>
   <img src="https://img.icons8.com/color/36/000000/sass.png"/>
-  <img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px"/>
-
-
-  
 </div>
+  [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
 
 <p> Também possuo experiência com SQL server, MongoDB e Jquery </p>
 
@@ -39,7 +36,7 @@
 <br>
 
 <blockquote> <em> Faça pouco ou faça muito, mas faça algo todos os dias. </em> </blockquote>
-![Snake animation](https://github.com/Kattiell/Kattiell/blob/output/github-contribution-grid-snake.svg)
+
 
 ![Banner_Kattiel](https://user-images.githubusercontent.com/64443527/202344374-d1061616-6b3a-4b60-a801-e6da5abd30eb.jpeg)
 

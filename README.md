@@ -16,9 +16,9 @@
   Essas são algumas tecnologias que conheço e pratico casualmente:
 </p>
 
-<div>
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
- <div/>
+
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 
 <p> Também possuo experiência com SQL server, MongoDB e Jquery </p>
 

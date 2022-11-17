@@ -25,7 +25,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Kattiell&count_private=true&show_icons=true&theme=tokyonight" alt="Kattiel github status" width="430"/>
   &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kattiell&layout=compact&theme=tokyonight" alt="Elias Top Languages" width="360"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kattiell&layout=compact&theme=tokyonight" alt="Kattiel Top Languages" width="360"/>
 </div>
 
 <br>

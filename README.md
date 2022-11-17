@@ -22,7 +22,7 @@
   <img src="https://img.icons8.com/officel/36/000000/react.png"/>
   <img src="https://img.icons8.com/nolan/36/react-native.png"/>
   <img src="https://img.icons8.com/color/36/000000/sass.png"/>
-![icons8-html-5-48](https://user-images.githubusercontent.com/64443527/202346138-d9e0f680-e0d2-4961-8e65-e80feab06543.png)
+  <img src="https://img.icons8.com/color/36/react.png"/>
 
 
   

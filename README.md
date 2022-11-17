@@ -17,12 +17,8 @@
 </p>
 
 <div>
-  <img src="https://img.icons8.com/color/36/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/36/000000/typescript.png"/>
-  <img src="https://img.icons8.com/officel/36/000000/react.png"/>
-  <img src="https://img.icons8.com/nolan/36/react-native.png"/>
-  <img src="https://img.icons8.com/color/36/000000/sass.png"/>
-</div>
+  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+ <div/>
 
 <p> Também possuo experiência com SQL server, MongoDB e Jquery </p>
 
@@ -36,6 +32,6 @@
 
 <blockquote> <em> Faça pouco ou faça muito, mas faça algo todos os dias. </em> </blockquote>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 ![Banner_Kattiel](https://user-images.githubusercontent.com/64443527/202344374-d1061616-6b3a-4b60-a801-e6da5abd30eb.jpeg)
 

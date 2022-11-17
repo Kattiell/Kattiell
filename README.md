@@ -1,12 +1,12 @@
 <h2 display="inline">
   :sparkles: :v: Falaa Dev, tranquilo? Eu sou o Gabriel - Kattiel :sparkles: 
-  <h3 display="inline"> Segue algumas infos sobre mim <h3>
+  
   <span>
     <a href="https://www.linkedin.com/in/gabriel-caetano-28a16317a/"><img src="https://img.icons8.com/color/26/000000/linkedin.png"/></a>
     <a href="https://twitter.com/kattiel_"><img src="https://img.icons8.com/color/26/000000/twitter-squared.png"/></a>
   </span>
 </h2>
-
+<h3 display="inline"> Segue algumas infos sobre mim <h3>
 <p>
   Tenho 20 anos e sou de Patos de Minas, Minas Gerais. Amo lo-fi . <br>
   Atualmente trabalho na B2LIST com a Coordenação do time de Suporte. 

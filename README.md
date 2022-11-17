@@ -17,7 +17,7 @@
 </p>
 
 
- [![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,react,nodejs,ts,redux,dart,flutter,figma,firebase.vscode&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,php,js,html,css,react,nodejs,ts,redux,dart,flutter,figma,firebase.vscode&theme=light)](https://skillicons.dev)
 
 
 <p> Também possuo experiência com SQL server, MongoDB e Jquery </p>

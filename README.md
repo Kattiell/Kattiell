@@ -22,6 +22,9 @@
   <img src="https://img.icons8.com/officel/36/000000/react.png"/>
   <img src="https://img.icons8.com/nolan/36/react-native.png"/>
   <img src="https://img.icons8.com/color/36/000000/sass.png"/>
+ <img src="https://img.icons8.com/color/36/000000/html.png"/>
+
+  
 </div>
 
 <p> Também possuo experiência com SQL server, MongoDB e Jquery </p>

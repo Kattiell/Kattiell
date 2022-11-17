@@ -6,7 +6,7 @@
     <a href="https://twitter.com/kattiel_"><img src="https://img.icons8.com/color/26/000000/twitter-squared.png"/></a>
   </span>
 </h2>
-<h3 display="inline"> Segue algumas infos sobre mim <h3>
+<h2 display="inline"> Segue algumas infos sobre mim <h2>
 <p>
   Tenho 20 anos e sou de Patos de Minas, Minas Gerais. Amo lo-fi . <br>
   Atualmente trabalho na B2LIST com a Coordenação do time de Suporte. 

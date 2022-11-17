@@ -1,5 +1,6 @@
 <h2 display="inline">
-  :sparkles: :v: Tranquilo Pessoal? Eu sou o Gabriel - Kattiel :sparkles: 
+  :sparkles: :v: Falaa Dev, tranquilo? Eu sou o Gabriel - Kattiel :sparkles: 
+  <h4 display="inline"> Segue algumas infos sobre mim <h4>
   <span>
     <a href="https://www.linkedin.com/in/gabriel-caetano-28a16317a/"><img src="https://img.icons8.com/color/26/000000/linkedin.png"/></a>
     <a href="https://twitter.com/kattiel_"><img src="https://img.icons8.com/color/26/000000/twitter-squared.png"/></a>

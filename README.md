@@ -39,7 +39,7 @@
 <br>
 
 <blockquote> <em> Faça pouco ou faça muito, mas faça algo todos os dias. </em> </blockquote>
-
+![Snake animation](https://github.com/Kattiell/Kattiell/blob/output/github-contribution-grid-snake.svg)
 
 ![Banner_Kattiel](https://user-images.githubusercontent.com/64443527/202344374-d1061616-6b3a-4b60-a801-e6da5abd30eb.jpeg)
 

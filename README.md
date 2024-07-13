@@ -20,7 +20,7 @@
  [![My Skills](https://skillicons.dev/icons?i=java,spring,php,js,html,css,react,nodejs,ts,redux,dart,flutter,figma,firebase.vscode&theme=light)](https://skillicons.dev)
 
 
-<p> Também possuo experiência com SQL server, MongoDB e Jquery </p>
+<p> Também possuo experiência com SQL server, MongoDB e Jquery </p> 
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Kattiell&count_private=true&show_icons=true&theme=tokyonight" alt="Kattiel github status" width="430"/>

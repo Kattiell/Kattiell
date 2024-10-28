@@ -9,7 +9,7 @@
 <h2 display="inline"> Segue algumas infos sobre mim <h2>
 <h3>
   Tenho 22 anos e sou de Patos de Minas, Minas Gerais. Amo lo-fi . <br>
-  Atualmente trabalho na B2LIST com a Coordenação do time de Suporte, sendo o Scrum da mesma. 
+  Atualmente trabalho na empresa: B2LIST, ocupando o cargo de: Prodigy tech analyst DevOps.
 <h3/>
 
 <p>

@@ -12,7 +12,7 @@
 
 <h3 style="font-size: 20px;"> A little about me </h3>
 <p style="font-size: 16px; line-height: 1.6;">
-  I'm 22 years old and from Patos de Minas, Minas Gerais, Brazil. I'm passionate about technology, programming, and lo-fi music.  
+  I'm 23 years old and from Patos de Minas, Minas Gerais, Brazil. I'm passionate about technology, programming, and lo-fi music.  
   Currently, I work at <strong>B2LIST</strong> as a <strong>Prodigy Tech Analyst DevOps</strong>, where I continuously improve my technical skills and contribute to optimizing processes.
 </p>
 

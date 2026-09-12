@@ -52,26 +52,27 @@ Not a checklist. Just where the bodies are usually buried.
 
 ### Featured — [parity-gate](https://github.com/Kattiell/parity-gate)
 
-**A CI gate that proves an API rewrite did not break the contract.**
+**Your API changed. Did it break anyone?**
 
-It fires the same requests at the old service and the new one, then reports what
-a consumer would actually notice: a field that changed type, a value that is now
-`null`, a `404` that quietly became a `200`.
+A CI gate that answers that in seconds, for any JSON API. It records the shape
+your API has today — types, requiredness, the status codes each endpoint answers
+with — and fails the build when a deploy moves it in a way existing consumers
+cannot survive. No second service, no hand-written schema, no golden files to
+re-record.
 
-The hard part was never the diff. Two live services return different timestamps
-on every call, pages come back reordered, and one flaky endpoint makes an entire
-report untrustworthy — that is how these harnesses end up switched off within a
-quarter. So it masks volatile paths *and proposes the masks itself*, matches
-collections by identity instead of by position, and measures whether an endpoint
-is stable **before** comparing anything.
+The trick is recording **shape and never values**: your catalogue changes
+hourly, its shape does not. So the file stays valid until someone actually
+changes the API, and the diff is one line you can read in review.
 
-Every run leaves a hash-chained evidence bundle: a report for the ticket, a
-machine-readable record, and a requirement traceability matrix.
+The hard part was never the diff — it was the noise that gets these gates
+switched off within a quarter. Timestamps move on every call, pages come back
+reordered, one flaky endpoint poisons a whole report. So it masks volatile paths
+*and prints the masks for you*, matches collections by identity instead of by
+position, and measures whether an endpoint is steady enough to be compared
+**before** comparing anything.
 
-<sub>Python 3.11+ · zero runtime dependencies · 98 tests, Linux and Windows ·
-ships with the test strategy, an ADR, and three written bug reports</sub>
-
----
+<sub>Python 3.11+ · zero runtime dependencies · 133 tests, Linux and Windows ·
+ships with the test strategy, two ADRs, and three written bug reports</sub>
 
 ### What I work with
 

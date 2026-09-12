@@ -74,6 +74,8 @@ position, and measures whether an endpoint is steady enough to be compared
 <sub>Python 3.11+ · zero runtime dependencies · 133 tests, Linux and Windows ·
 ships with the test strategy, two ADRs, and three written bug reports</sub>
 
+---
+
 ### What I work with
 
 **Testing** &nbsp;API & contract testing · exploratory testing · risk-based test design ·
@@ -91,7 +93,7 @@ load and batch stress testing · bug reporting · test strategy · traceability
 
 | | |
 | --- | --- |
-| [**parity-gate**](https://github.com/Kattiell/parity-gate) | Contract-parity gate for API migrations. The one I'd want you to read. |
+| [**parity-gate**](https://github.com/Kattiell/parity-gate) | Catches the API change that breaks your consumers, before they do. The one I'd want you to read. |
 | [**cnpj_validator**](https://github.com/Kattiell/cnpj_validator) | Check digits and the CNPJs that are technically valid and absolutely fake |
 | [**SplitExcel**](https://github.com/Kattiell/SplitExcel) | For spreadsheets that were never meant to get that large |
 | [**PetTracker**](https://github.com/Kattiell/PetTracker) | Full-stack side project, TypeScript front to back |
